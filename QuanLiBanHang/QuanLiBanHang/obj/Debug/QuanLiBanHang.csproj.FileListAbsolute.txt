@@ -1,0 +1,11 @@
+D:\Soucre\CShaph\TrucQuan\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.exe.config
+D:\Soucre\CShaph\TrucQuan\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.exe
+D:\Soucre\CShaph\TrucQuan\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.pdb
+D:\Soucre\CShaph\TrucQuan\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.csprojResolveAssemblyReference.cache
+D:\Soucre\CShaph\TrucQuan\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.Form1.resources
+D:\Soucre\CShaph\TrucQuan\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.Properties.Resources.resources
+D:\Soucre\CShaph\TrucQuan\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.csproj.GenerateResource.Cache
+D:\Soucre\CShaph\TrucQuan\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.exe
+D:\Soucre\CShaph\TrucQuan\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.pdb
+D:\Soucre\CShaph\TrucQuan\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.frmQuanLyBH.resources
+D:\Soucre\CShaph\TrucQuan\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.testTap.resources
